@@ -63,7 +63,9 @@ Lower job levels show higher turnover, indicating onboarding or growth issues.
 
 ## 📊 Dashboard
 
-(Add screenshots here)
+![Dashboard]
+(./images/Dashboard%20Atrittion%20IBM%20(1).jpg)
+(./images/Dashboard%20Atrittion%20IBM%20(2).jpg)
 
 ---
 
