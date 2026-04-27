@@ -79,7 +79,14 @@ This analysis demonstrates how data can be used to:
 - Support HR strategy with data-driven insights  
 
 ---
+## 🔍 Data Analysis Process
 
+- Data cleaning and transformation in Power BI
+- Creation of calculated measures (attrition rate, averages, segmentation)
+- Exploratory analysis by department, salary, and tenure
+- Identification of patterns and key drivers of attrition
+
+---
 ## 📌 Next Steps
 
 - Expand analysis using Python (EDA)  
